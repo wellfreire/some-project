@@ -1,0 +1,22 @@
+{
+    "name": "wellfreire/some-project",
+    "description": "A Sample Project for Testing Things",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Wellington Freire",
+        "email": "wellfreire1@gmail.com"
+      }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^2.5",
+        "phpmd/phpmd": "^2.3",
+        "sebastian/phpcpd": "^2.0",
+        "pdepend/pdepend": "^2.2",
+        "phploc/phploc": "^3.0",
+        "phpunit/phpunit": "^5.2",
+        "theseer/phpdox": "0.8.1.1"
+    }
+}
